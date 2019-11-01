@@ -6,7 +6,7 @@ geographiclib==1.49
 geopy==1.18.1
 kiwisolver==1.0.1
 matplotlib==2.2.4
-nltk==3.4
+nltk==3.4.5
 numpy==1.16.2
 pandas==0.24.2
 pyparsing==2.3.1
